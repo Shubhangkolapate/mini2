@@ -1,0 +1,7 @@
+invoice no.-102
+product-header
+category- assigment
+student name-shubhang
+quantity-20
+price-1rupee per header
+total-20
